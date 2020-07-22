@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857103616906",
+    "firebase_url": "https://myfirebaseapp-c6851.firebaseio.com",
+    "project_id": "myfirebaseapp-c6851",
+    "storage_bucket": "myfirebaseapp-c6851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857103616906:android:35d167e079c248bc235673",
+        "android_client_info": {
+          "package_name": "com.gsixacademy.android.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857103616906-nkhctc9gf0kp44f8rda9dm6ks0c4945l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBJtH4xzFvYueUeUdcdSq6vnAeuuc1bTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857103616906-nkhctc9gf0kp44f8rda9dm6ks0c4945l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
